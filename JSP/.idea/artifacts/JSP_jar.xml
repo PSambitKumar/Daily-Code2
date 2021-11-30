@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JSP:jar">
+    <output-path>$PROJECT_DIR$/classes/artifacts/JSP_jar</output-path>
+    <root id="archive" name="JSP.jar">
+      <element id="module-output" name="JSP" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail1/mail.jar" path-in-jar="/" />
+      <element id="library" level="module" name="mail.jar" module-name="JSP" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail/mail.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail (2)/mailapi-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail/activation.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/../../../../mysql-connector.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail (2)/jakarta.activation-2.0.1.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/Compressed/mail (2)/smtp-2.0.1.jar" path-in-jar="/" />
+      <element id="library" level="module" name="activation.jar" module-name="JSP" />
+    </root>
+  </artifact>
+</component>

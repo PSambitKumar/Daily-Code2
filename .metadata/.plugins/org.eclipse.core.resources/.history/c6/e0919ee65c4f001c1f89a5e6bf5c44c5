@@ -1,0 +1,31 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+</head>
+<body>
+	<%
+	String a = request.getParameter("add1");
+	String b = request.getParameter("delindex1");
+	//out.println(a+b);
+	
+	<form action="ProductMaster" method="post">
+	<div class="login-div">
+		<div class="logo"></div>
+		<div class="title">CSM Product Master</div>
+		<div class="fields">
+			<div class="productname"><input type="text" name="productname" placeholder="Product Name"></div>
+			<div class="productdesc"><input type="text" name="productdesc" placeholder="Product Descrption"></div>
+			<div class="productprice"><input type="number" name="productprice" placeholder="Product Price"></div>
+		</div>
+		<div class="submit-button1"><input type="submit" value="Submit"></div>
+		<div class="cancel-button1"><input type="submit" value="Cancel"></div>
+	</div>
+
+</form>
+	%>
+</body>
+</html>
