@@ -18,7 +18,7 @@ public class InsertData {
 		Transaction transaction  = session.beginTransaction();
 		
 		Employee employee = new Employee();
-		employee.setId(1);
+		employee.setId(2);
 		employee.setFirstname("Sambit");
 		employee.setlastname("Pradhan");
 		

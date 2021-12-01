@@ -8,11 +8,10 @@
 int x=0;
 String s1 = null;
 %>
-<center>
 <h3>Registration Page</h3>
 
 <form action="Regd">
-    <table>
+    <table align="center">
         <tr>
             <td>Name:</td>
             <td><input type="text" name="name" placeholder="enter you name"></td>
@@ -62,6 +61,5 @@ String s1 = null;
    %> --%>
 
 </form>
-</center>
 </body>
 </html>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-
-
-<bean name="date2" id="date2" class="Sambit.Date1">
-    <property name="date"></property>
-</bean>  
-
-  

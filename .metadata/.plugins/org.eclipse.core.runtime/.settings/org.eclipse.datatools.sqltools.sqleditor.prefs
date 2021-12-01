@@ -6,4 +6,6 @@ Others=0,0,0,0,0,207,191,173
 Single=quoted string\=0,0,0,0,0,236,228,126
 Single-line=comment\=0,0,0,0,0,255,255,255
 Type=0,0,0,0,0,82,227,246
+auto.activation.delay=0
+auto.activation.trigger=\ .@($abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
 eclipse.preferences.version=1
