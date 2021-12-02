@@ -152,7 +152,7 @@
              Documentation at: /docs/config/valve.html
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
-<Context docBase="WebApp" path="/WebApp" reloadable="true" source="org.eclipse.jst.jee.server:WebApp"/><Context docBase="HomeAssignment" path="/HomeAssignment" reloadable="true" source="org.eclipse.jst.jee.server:HomeAssignment"/><Context docBase="Product" path="/Product" reloadable="true" source="org.eclipse.jst.jee.server:Product"/><Context docBase="Product1" path="/Product1" reloadable="true" source="org.eclipse.jst.jee.server:Product1"/></Host>
+<Context docBase="WebApp" path="/WebApp" reloadable="true" source="org.eclipse.jst.jee.server:WebApp"/><Context docBase="HomeAssignment" path="/HomeAssignment" reloadable="true" source="org.eclipse.jst.jee.server:HomeAssignment"/><Context docBase="Product" path="/Product" reloadable="true" source="org.eclipse.jst.jee.server:Product"/><Context docBase="Product1" path="/Product1" reloadable="true" source="org.eclipse.jst.jee.server:Product1"/><Context docBase="CrudOp" path="/CrudOp" reloadable="true" source="org.eclipse.jst.jee.server:CrudOp"/></Host>
     </Engine>
   </Service>
 </Server>

@@ -11,6 +11,9 @@
 <title>Add Employee</title>
 </head>
 <body>
-<h4 align="center">Add Employee</h4>
+<h4 align="center">Add Product</h4>
+
+
+
 </body>
 </html>
