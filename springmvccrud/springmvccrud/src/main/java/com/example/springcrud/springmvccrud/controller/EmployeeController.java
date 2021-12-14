@@ -40,7 +40,7 @@ public class EmployeeController {
 	}
 	
 	@RequestMapping("/employee/{id}")
-	public ModelAndView get(@PathVariable("id") int id) {
+	public ModelAndView get(@PathVariable int id) {
 		ModelAndView mav = new ModelAndView("employeesAdd");
 		Employee employeeObj = employeeService.get(id);
 		if(employeeObj == null) {

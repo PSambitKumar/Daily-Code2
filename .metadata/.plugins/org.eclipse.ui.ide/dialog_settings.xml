@@ -70,6 +70,17 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Sambit\Assessment\Assessment"/>
+			<item value="E:\Sambit\Crud3\Crud3"/>
+			<item value="E:\Sambit\EmployeeRegistration"/>
+			<item value="E:\Sambit\spring-boot-datatable"/>
+			<item value="E:\Spring Boot\spring-boot-web-application-bootstrap-jquery"/>
+			<item value="E:\Sambit\EmployeeRegistration\EmployeeRegistration"/>
+			<item value="E:\Sambit\springboot-datable-pagination"/>
+			<item value="E:\Sambit\Spring-Boot-Jpa"/>
+			<item value="E:\Sambit\CustomerManager"/>
+			<item value="E:\Sambit\SpringMVCHibernate\SpringMVCHibernate"/>
+			<item value="C:\Users\sambit.pradhan\eclipse-workspace\HibernateOneToOneMapping"/>
 			<item value="C:\Users\sambit.pradhan\eclipse-workspace\springmvccrud\springmvccrud"/>
 			<item value="C:\Users\sambit.pradhan\eclipse-workspace\CrudOP"/>
 			<item value="C:\Users\sambit.pradhan\eclipse-workspace\CrodOP\CrodOP"/>

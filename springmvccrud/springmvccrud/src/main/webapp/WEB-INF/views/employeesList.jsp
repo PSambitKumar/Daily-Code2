@@ -9,8 +9,8 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>List of Employees</h1>
-	<table border = "1">
+	<h1 align="center">List of Employees</h1>
+	<table border = "0" align="center">
 		<tr>
 			<th>Name</th>
 			<th>Gender</th>
@@ -31,7 +31,11 @@
 				</td>
 			</tr>
 		</c:forEach>
+		
+		<tr>
+		<td colspan="5"><center><button onclick="window.location.href='${pageContext.request.contextPath}/openEmployeeView'">Add Employee</button></center></td>
+		</tr>
 	</table>
-	<button onclick="window.location.href='${pageContext.request.contextPath}/openEmployeeView'">Add Employee</button>
+	
 </body>
 </html>

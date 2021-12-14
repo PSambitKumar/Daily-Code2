@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
-    <wb-module deploy-name="FirstHibernate">
-        <property name="context-root" value="FirstHibernate"/>
-        <property name="java-output-path" value="/FirstHibernate/target/classes"/>
-    </wb-module>
-</project-modules>

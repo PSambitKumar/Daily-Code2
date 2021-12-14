@@ -94,6 +94,7 @@
 	</section>
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="E:\Sambit\SpringMVCHibernate\SpringMVCHibernate"/>
 			<item value="E:\First\First"/>
 			<item value="E:\HelloSpring\HelloSpring"/>
 			<item value="C:\Users\sambit.pradhan\eclipse-workspace\HelloSpring\HelloSpring"/>

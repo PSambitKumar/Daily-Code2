@@ -1,2 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<typeInfoHistroy/>
+<typeInfoHistroy>
+    <typeInfo handle="=Article/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.article{ArticleService.java[ArticleService" modifiers="513" timestamp="1638774168703"/>
+    <typeInfo handle="=Crud3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Service{EmployeeService.java[EmployeeService" modifiers="513" timestamp="1639050477402"/>
+    <typeInfo handle="=FinalAssessment/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.springcrud.springmvccrud.service{BatchMasterService.java[BatchMasterService" modifiers="513" timestamp="1639112164865"/>
+    <typeInfo handle="=Assessment/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Assessment.Service{StudentService.java[StudentService" modifiers="513" timestamp="1639201009724"/>
+    <typeInfo handle="=Assessment/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Assessment.Dao{StudentDao.java[StudentDao" modifiers="513" timestamp="1639200914506"/>
+    <typeInfo handle="=Assessment/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Assessment.Service{BatchService.java[BatchService" modifiers="513" timestamp="1639386744126"/>
+    <typeInfo handle="=Assessment/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Assessment.Dao{BatchDao.java[BatchDao" modifiers="513" timestamp="1639386664123"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.dao{shopdao.java[shopdao" modifiers="513" timestamp="1639324543561"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.service{shopservice.java[shopservice" modifiers="513" timestamp="1639328027484"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.service{productservice.java[productservice" modifiers="513" timestamp="1639328612019"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.dao{productdao.java[productdao" modifiers="513" timestamp="1639330243504"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.dao{saledao.java[saledao" modifiers="513" timestamp="1639330831472"/>
+    <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.service{saleservice.java[saleservice" modifiers="513" timestamp="1639330955092"/>
+</typeInfoHistroy>

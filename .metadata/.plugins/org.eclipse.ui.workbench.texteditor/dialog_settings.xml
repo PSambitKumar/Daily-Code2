@@ -1,26 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
-		<item key="selection" value="lastname"/>
+		<item key="selection" value="form:hidden"/>
 		<item key="wrap" value="true"/>
 		<item key="casesensitive" value="false"/>
 		<item key="wholeword" value="false"/>
 		<item key="incremental" value="false"/>
 		<item key="isRegEx" value="false"/>
 		<list key="findhistory">
+			<item value="form:hidden"/>
+			<item value="path"/>
+			<item value="0"/>
+			<item value="ViewBatch"/>
+			<item value="class=&quot;form-label&quot;"/>
+			<item value="class=&quot;col-md-6&quot;"/>
+			<item value="employeeObj"/>
+			<item value="Employee"/>
+			<item value="batch_desc"/>
+			<item value="com.demo.entities.CityEntity"/>
+			<item value="bean"/>
 			<item value="lastnameString"/>
 			<item value="sess"/>
 			<item value="value"/>
 			<item value="\\"/>
-			<item value="userphoto"/>
-			<item value="String driver"/>
-			<item value="Click Here to Update"/>
-			<item value="body"/>
-			<item value="8081"/>
-			<item value="8080"/>
-			<item value="shutdown"/>
 		</list>
 		<list key="replacehistory">
+			<item value=""/>
+			<item value="Empbean"/>
 			<item value="lastname"/>
 			<item value="name"/>
 			<item value="/"/>
@@ -28,8 +34,8 @@
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
-		<item key="DIALOG_X_ORIGIN" value="549"/>
-		<item key="DIALOG_Y_ORIGIN" value="117"/>
+		<item key="DIALOG_X_ORIGIN" value="105"/>
+		<item key="DIALOG_Y_ORIGIN" value="120"/>
 		<item key="DIALOG_WIDTH" value="284"/>
 		<item key="DIALOG_HEIGHT" value="391"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
