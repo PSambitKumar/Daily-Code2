@@ -13,4 +13,8 @@
     <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.dao{productdao.java[productdao" modifiers="513" timestamp="1639330243504"/>
     <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.dao{saledao.java[saledao" modifiers="513" timestamp="1639330831472"/>
     <typeInfo handle="=qsn3/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.service{saleservice.java[saleservice" modifiers="513" timestamp="1639330955092"/>
+    <typeInfo handle="=Qsn5/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Dao{CategoryDao.java[CategoryDao" modifiers="513" timestamp="1639476168244"/>
+    <typeInfo handle="=Qsn5/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Service{CategoryService.java[CategoryService" modifiers="513" timestamp="1639476570338"/>
+    <typeInfo handle="=Ex/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.csm.Service{StudentService.java[StudentService" modifiers="513" timestamp="1640668786520"/>
+    <typeInfo handle="=Ex/C:\/Users\/sambit.pradhan\/.m2\/repository\/org\/mockito\/mockito-core\/4.0.0\/mockito-core-4.0.0.jar=/maven.pomderived=/true=/=/org.eclipse.jst.component.dependency=/\/WEB-INF\/lib=/=/maven.pomderived=/true=/=/test=/true=/=/org.eclipse.jst.component.nondependency=/=/=/maven.groupId=/org.mockito=/=/maven.artifactId=/mockito-core=/=/maven.version=/4.0.0=/=/maven.scope=/test=/&lt;org.mockito.listeners(StubbingLookupListener.class[StubbingLookupListener" modifiers="1537" timestamp="1637826555633"/>
 </typeInfoHistroy>
