@@ -33,8 +33,8 @@ ResultSet rs = ps.executeQuery();
 	<div align="center"><h2> Registration Form.</h2></div>
 		<div align="center"><p>Already Have an Account: <a href="Login.jsp"><b>Login Here</b></a></p></div>
 		</td>
-			<td><form name="myForm" 
-			onsubmit="return validateForm()" action="Regd" method="post" enctype="multipart/form-data">
+			<td>
+			<form name="myForm" onsubmit="return validateForm()" action="Regd" method="post" enctype="multipart/form-data">
 		<table cellpadding="4">
 			<tr>
             <td>User ID</td>
